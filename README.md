@@ -9,7 +9,6 @@ AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 
-
 Acceptance Criteria
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
@@ -26,25 +25,21 @@ WHEN I refresh the page
 THEN the saved events persist
 
 
-
 ## Description
-
 - This application works perfectly for super busy employees who love to schedule their day.
 - When you open the planner, the current day and time is displayed at the top of the calendar.
 - Schedule your meeting and click on the save button to save your appointment in your local storage.
 
+https://anna-janina.github.io/Work-Day-Scheduler/
+
 ## Installation
-
 - N/A
-- 
+
 ## Usage
-
-![alt text](assets/images%20/Work%20Day%20Scheduler.png%0D)
+![alt text](./assets/images%20/Work%20Day%20Scheduler.png)
   
-  ## Credits
-
+## Credits
 - N/A
 
 ## License
-
 Please refer to the LICENSE in the repo.
